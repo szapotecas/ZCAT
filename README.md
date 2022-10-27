@@ -1,8 +1,8 @@
 # ZCAT
 Scalable multi-objective test problems
 
-This source code presents the implementation of the proposed ZCAT 
-multi-objective test problems according to the description given in the paper
+This source code presents the implementation of the ZCAT multi-objective test 
+problems according to the description given in the paper:
 "Challenging test problems for multi- and many-objective optimization".
 
 The "main.c" file contains three examples of the use of this implementation.
